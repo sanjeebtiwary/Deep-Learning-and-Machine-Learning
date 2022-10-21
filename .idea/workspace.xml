@@ -7,20 +7,6 @@
     <list default="true" id="72fdbe04-965e-4948-b660-b9aff26a31b9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cnn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Alges/algae-bloom-polluted-green-river-260nw-1493420024 - Copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Alges/algae-bloom-polluted-green-river-260nw-1493420024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Alges/oilgae_wastewater - Copy.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Alges/oilgae_wastewater.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Alges2/180D0B5D181D0BDD0BED0B2D0BED0B4D0BDD0BED0B3D0BE_D0B2D0BED0B4D0BED0B5D0BCD0B0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Alges2/192px.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Alges2/1BJlheHVCtQhU1Q58vCekJA.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Alges2/algae-bloom-polluted-green-river-260nw-1493420024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Alges2/algae.GIF.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Alges2/blur-group-green-algae-capture-260nw-720310891.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Alges2/c5mb00319a-f1_hi-res.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Alges2/oilgae_wastewater.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Alges2/vector-anatomy-euglena-educational-illustration-260nw-1712011054.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +100,7 @@
       <workItem from="1666322519904" duration="3418000" />
       <workItem from="1666334319750" duration="2491000" />
       <workItem from="1666337936428" duration="2037000" />
-      <workItem from="1666357781897" duration="1603000" />
+      <workItem from="1666357781897" duration="3340000" />
     </task>
     <servers />
   </component>
