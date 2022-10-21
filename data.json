@@ -1,0 +1,481 @@
+{
+  "@type": "Dataset",
+  "identifier": "10.1038/s41597-020-0496-5",
+  "title": "Metadata record for: A novel real-world ecotoxicological dataset of pelagic microbial community responses to wastewater",
+  "relatedPublications": [],
+  "repositories": [
+    {
+      "name": "NCBI Sequence Read Archive",
+      "value": "https://identifiers.org/insdc.sra:SRP224901",
+      "@type": "DataCatalog"
+    },
+    {
+      "name": "Dryad Digital Repository",
+      "value": "https://doi.org/10.5061/dryad.2fqz612km",
+      "@type": "DataCatalog"
+    }
+  ],
+  "assays": [
+    {
+      "measurementType": {
+        "annotationValue": "water composition",
+        "termAccession": "http://purl.obolibrary.org/obo/PATO_0001800",
+        "termSource": "MS",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "water quality unit",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "total dissolved solids",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "water quality unit",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "conductivity of water",
+        "termAccession": "http://purl.obolibrary.org/obo/ENVO_09200018",
+        "termSource": "ENVO",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "water quality unit",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "pH",
+        "termAccession": "http://purl.obolibrary.org/obo/UO_0000196",
+        "termSource": "MS",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "water quality unit",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "concentration of oxygen in water",
+        "termAccession": "http://purl.obolibrary.org/obo/ENVO_09200021",
+        "termSource": "ENVO",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "water quality unit",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "Total Organic Carbon",
+        "termAccession": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C134114",
+        "termSource": "NCIT",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "water testing suite",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "dinitrogen",
+        "termAccession": "http://purl.obolibrary.org/obo/CHEBI_17997",
+        "termSource": "CHEBI",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "water testing suite",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "phosphorus atom",
+        "termAccession": "http://purl.obolibrary.org/obo/CHEBI_28659",
+        "termSource": "CHEBI",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "water testing suite",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "ammonia",
+        "termAccession": "http://purl.obolibrary.org/obo/CHEBI_16134",
+        "termSource": "CHEBI",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "water testing suite",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "nitrate",
+        "termAccession": "http://purl.obolibrary.org/obo/CHEBI_17632",
+        "termSource": "CHEBI",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "water testing suite",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "nitrite",
+        "termAccession": "http://purl.obolibrary.org/obo/CHEBI_16301",
+        "termSource": "CHEBI",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "water testing suite",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "biological oxygen demand",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "dilution method",
+        "termAccession": "http://www.bioassayontology.org/bao#BAO_0002418",
+        "termSource": "BAO",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "chlorophyll a",
+        "termAccession": "http://purl.obolibrary.org/obo/CHEBI_18230",
+        "termSource": "CHEBI",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "autofluorescence",
+        "termAccession": "http://purl.obolibrary.org/obo/PATO_0001868",
+        "termSource": "MS",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "Cell Density",
+        "termAccession": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120538",
+        "termSource": "NCIT",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "flow cytometry method",
+        "termAccession": "http://purl.obolibrary.org/obo/MMO_0000617",
+        "termSource": "MMO",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "Algae",
+        "termAccession": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86587",
+        "termSource": "NCIT",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "autofluorescence",
+        "termAccession": "http://purl.obolibrary.org/obo/PATO_0001868",
+        "termSource": "MS",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "Bacteria",
+        "termAccession": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14187",
+        "termSource": "NCIT",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "flow cytometry method",
+        "termAccession": "http://purl.obolibrary.org/obo/MMO_0000617",
+        "termSource": "MMO",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "hydrogen sulfide",
+        "termAccession": "http://purl.obolibrary.org/obo/CHEBI_16136",
+        "termSource": "CHEBI",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "water testing suite",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "Toxicity",
+        "termAccession": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27990",
+        "termSource": "NCIT",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "whole effluent toxicity testing",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "rRNA_16S",
+        "termAccession": "http://purl.obolibrary.org/obo/SO_0001000",
+        "termSource": "SO",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "DNA sequencing",
+        "termAccession": "http://purl.obolibrary.org/obo/OBI_0000626",
+        "termSource": "ERO",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "rRNA_18S",
+        "termAccession": "http://purl.obolibrary.org/obo/SO_0000407",
+        "termSource": "SO",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "DNA sequencing",
+        "termAccession": "http://purl.obolibrary.org/obo/OBI_0000626",
+        "termSource": "ERO",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "abundance of nutrient cycling genes",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "microfluidic quantitative polymerase chain reaction",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "measurementType": {
+        "annotationValue": "abundance of antibiotic resistance genes",
+        "@type": "PropertyValue"
+      },
+      "technologyType": {
+        "annotationValue": "microfluidic quantitative polymerase chain reaction",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    }
+  ],
+  "factors": [
+    {
+      "name": "effluent concentration",
+      "type": {
+        "annotationValue": "concentration of",
+        "termAccession": "http://purl.obolibrary.org/obo/PATO_0000033",
+        "termSource": "ENVO",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    },
+    {
+      "name": "salinity levels",
+      "type": {
+        "annotationValue": "response to salt",
+        "termAccession": "http://purl.obolibrary.org/obo/GO_1902074",
+        "termSource": "GO",
+        "@type": "PropertyValue"
+      },
+      "@type": "variableMeasured"
+    }
+  ],
+  "studyCharacteristics": {
+    "organism": [
+      {
+        "annotationValue": "Bacteria",
+        "termAccession": "http://purl.bioontology.org/ontology/NCBITAXON/2",
+        "termSource": "NCBITAXON",
+        "@type": "PropertyValue"
+      },
+      {
+        "annotationValue": "algae",
+        "@type": "PropertyValue"
+      }
+    ],
+    "environmentType": [
+      {
+        "annotationValue": "waste water",
+        "termAccession": "http://purl.obolibrary.org/obo/ENVO_00002001",
+        "termSource": "ENVO",
+        "@type": "PropertyValue"
+      },
+      {
+        "annotationValue": "estuary",
+        "termAccession": "http://purl.obolibrary.org/obo/ENVO_00000045",
+        "termSource": "ENVO",
+        "@type": "PropertyValue"
+      },
+      {
+        "annotationValue": "sea coast",
+        "termAccession": "http://purl.obolibrary.org/obo/ENVO_00000303",
+        "termSource": "ENVO",
+        "@type": "PropertyValue"
+      },
+      {
+        "annotationValue": "saline water",
+        "termAccession": "http://purl.obolibrary.org/obo/ENVO_00002010",
+        "termSource": "ENVO",
+        "@type": "PropertyValue"
+      },
+      {
+        "annotationValue": "fresh water body",
+        "termAccession": "http://purl.obolibrary.org/obo/ENVO_01001320",
+        "termSource": "ENVO",
+        "@type": "PropertyValue"
+      }
+    ],
+    "geographicalLocation": [
+      {
+        "annotationValue": "Hunter River",
+        "termAccession": "http://purl.obolibrary.org/obo/GAZ_00148329",
+        "termSource": "GAZ",
+        "@type": "Place"
+      }
+    ],
+    "@type": "variableMeasured"
+  },
+  "ontologySourceReferences": {
+    "ENVO": {
+      "name": "ENVO",
+      "description": "Environment Ontology",
+      "file": "http://data.bioontology.org/ontologies/ENVO",
+      "version": null,
+      "@type": "DefinedTermSet"
+    },
+    "GO": {
+      "name": "GO",
+      "description": "Gene Ontology",
+      "file": "http://data.bioontology.org/ontologies/GO",
+      "version": "releases/2019-02-23",
+      "@type": "DefinedTermSet"
+    },
+    "ERO": {
+      "name": "ERO",
+      "description": "Eagle-I Research Resource Ontology",
+      "file": "http://data.bioontology.org/ontologies/ERO",
+      "version": "2013-08-02",
+      "@type": "DefinedTermSet"
+    },
+    "GAZ": {
+      "name": "GAZ",
+      "description": "Gazetteer",
+      "file": "http://data.bioontology.org/ontologies/GAZ",
+      "version": "$Revision: 1.512 $",
+      "@type": "DefinedTermSet"
+    },
+    "NCBITAXON": {
+      "name": "NCBITAXON",
+      "description": "National Center for Biotechnology Information (NCBI) Organismal Classification",
+      "file": "http://data.bioontology.org/ontologies/NCBITAXON",
+      "version": "2019AB",
+      "@type": "DefinedTermSet"
+    },
+    "SO": {
+      "name": "SO",
+      "description": "Sequence Types and Features Ontology",
+      "file": "http://data.bioontology.org/ontologies/SO",
+      "version": "unknown",
+      "@type": "DefinedTermSet"
+    },
+    "CHEBI": {
+      "name": "CHEBI",
+      "description": "Chemical Entities of Biological Interest Ontology",
+      "file": "http://data.bioontology.org/ontologies/CHEBI",
+      "version": "172",
+      "@type": "DefinedTermSet"
+    },
+    "BAO": {
+      "name": "BAO",
+      "description": "BioAssay Ontology",
+      "file": "http://data.bioontology.org/ontologies/BAO",
+      "version": "2.4",
+      "@type": "DefinedTermSet"
+    },
+    "NCIT": {
+      "name": "NCIT",
+      "description": "National Cancer Institute Thesaurus",
+      "file": "http://data.bioontology.org/ontologies/NCIT",
+      "version": "20.01d",
+      "@type": "DefinedTermSet"
+    },
+    "MMO": {
+      "name": "MMO",
+      "description": "Measurement Method Ontology",
+      "file": "http://data.bioontology.org/ontologies/MMO",
+      "version": "2.36",
+      "@type": "DefinedTermSet"
+    },
+    "MS": {
+      "name": "MS",
+      "description": "Mass Spectrometry Ontology",
+      "file": "http://data.bioontology.org/ontologies/MS",
+      "version": "4.1.22",
+      "@type": "DefinedTermSet"
+    },
+    "@type": "CategoryCodeSet"
+  },
+  "comments": [
+    {
+      "name": "Created With Configuration",
+      "value": "1.0",
+      "@type": "SoftwareApplication"
+    },
+    {
+      "name": "Data Descriptor License",
+      "value": "CC-BY-4.0",
+      "@type": "CreativeWork"
+    }
+  ]
+}
