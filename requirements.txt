@@ -9,3 +9,12 @@ from dtreeviz.trees import *
 from IPython.display import Image, display_svg, SVG
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
+numpy~=1.23.3
+pandas~=1.4.4
+seaborn~=0.12.0
+fastbook~=0.0.28
+fastai~=2.7.9
+scikit-learn~=1.1.2
+dtreeviz~=1.3.7
+import tensorflow as tf
+import cv2
