@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72fdbe04-965e-4948-b660-b9aff26a31b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/logs/train/events.out.tfevents.1666524200.SANJEEB-TIWARY.7528.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/validation/events.out.tfevents.1666524207.SANJEEB-TIWARY.7528.1.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/cnn-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/cnn-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cnn.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +108,7 @@
       <workItem from="1666516991461" duration="1000" />
       <workItem from="1666516997066" duration="3301000" />
       <workItem from="1666521299397" duration="1811000" />
-      <workItem from="1666523805462" duration="1545000" />
+      <workItem from="1666523805462" duration="2167000" />
     </task>
     <servers />
   </component>
