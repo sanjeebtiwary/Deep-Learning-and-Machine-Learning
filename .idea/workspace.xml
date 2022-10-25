@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72fdbe04-965e-4948-b660-b9aff26a31b9" name="Changes" comment="" />
+    <list default="true" id="72fdbe04-965e-4948-b660-b9aff26a31b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OIDv4_ToolKit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cnn.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/OIDv4_ToolKit" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,9 +51,6 @@
       <module name="R-CNN-CNN" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -110,6 +110,7 @@
       <workItem from="1666586801123" duration="2275000" />
       <workItem from="1666621528678" duration="377000" />
       <workItem from="1666669830625" duration="637000" />
+      <workItem from="1666675619665" duration="675000" />
     </task>
     <servers />
   </component>
