@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72fdbe04-965e-4948-b660-b9aff26a31b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Random Forest.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Random Forest Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Random Forest Model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Forest.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +116,7 @@
       <workItem from="1666669830625" duration="637000" />
       <workItem from="1666675619665" duration="1981000" />
       <workItem from="1666773301463" duration="1207000" />
+      <workItem from="1666775344961" duration="939000" />
     </task>
     <servers />
   </component>
