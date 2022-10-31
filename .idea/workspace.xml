@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72fdbe04-965e-4948-b660-b9aff26a31b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/logs/train/events.out.tfevents.1667110594.SANJEEB-TIWARY.9656.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/train/events.out.tfevents.1667114963.SANJEEB-TIWARY.17776.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/train/events.out.tfevents.1667144975.SANJEEB-TIWARY.8528.0.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/train/events.out.tfevents.1667145290.SANJEEB-TIWARY.8528.1.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/validation/events.out.tfevents.1667110602.SANJEEB-TIWARY.9656.1.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/validation/events.out.tfevents.1667114971.SANJEEB-TIWARY.17776.1.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/validation/events.out.tfevents.1667145298.SANJEEB-TIWARY.8528.2.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Cnn+Rf-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Cnn+Rf-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/classification_CNN_RF-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/classification_CNN_RF-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cnn+Rf.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn+Rf.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification_CNN_RF.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/classification_CNN_RF.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cnn.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
