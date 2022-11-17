@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72fdbe04-965e-4948-b660-b9aff26a31b9" name="Changes" comment="" />
+    <list default="true" id="72fdbe04-965e-4948-b660-b9aff26a31b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FFT-Algo.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,6 +129,7 @@
       <workItem from="1667382732170" duration="1000" />
       <workItem from="1667386006418" duration="918000" />
       <workItem from="1667747775188" duration="126000" />
+      <workItem from="1668660983087" duration="1147000" />
     </task>
     <servers />
   </component>
